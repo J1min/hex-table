@@ -1,11 +1,10 @@
 {
-  "name": "hex-table",
-  "version": "1.0.0",
-  "description": "",
+  "name": "bluemiv-simple-component",
+  "version": "0.1.0",
+  "description": "simple component for deploy test",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "repository": "https://github.com/bluemiv/simple-component.git",
+  "author": "bluemiv <public.bluemiv@gmail.com> (https://memostack.tistory.com/)",
+  "license": "MIT",
+  "private": false
 }
